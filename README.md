@@ -21,7 +21,6 @@ Here are some screenshots of the TaskTracker app in action:
 ### Mobile View
 ![Mobile View](https://github.com/user-attachments/assets/acf04d55-775c-474c-8ec5-5270fedebc70)
 
-
 ## How to Use
 
 1. **Add a Task:** 
@@ -47,8 +46,8 @@ For a step-by-step guide on how this app was built, check out the following YouT
 
 ## GitHub Repository
 
-To view or contribute to the source code, visit the GitHub repository:  
-[TaskTracker GitHub Repo](https://github.com/ZayanMustafa/TaskTracker/)
+To view or contribute to the source code, clone the repository from GitHub:  
+[TaskTracker GitHub Repo](https://github.com/ZayanMustafa/TaskTracker)
 
 ## Technologies Used
 
@@ -56,8 +55,3 @@ To view or contribute to the source code, visit the GitHub repository:
 - **CSS**
 - **JavaScript**
 - **Bootstrap**
-
-
----
-
-Feel free to explore and contribute to the project. If you encounter any issues or have suggestions, feel free to open an issue in the GitHub repository!
