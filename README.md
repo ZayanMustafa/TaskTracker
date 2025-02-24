@@ -42,7 +42,7 @@ You can access the live version of TaskTracker here:
 ## Tutorial
 
 For a step-by-step guide on how this app was built, check out the following YouTube tutorial:  
-[TaskTracker YouTube Tutorial](https://youtu.be/hRBmr_Xv-PY)
+[TaskTracker YouTube Tutorial[](https://youtu.be/hRBmr_Xv-PY)]
 
 ## GitHub Repository
 
