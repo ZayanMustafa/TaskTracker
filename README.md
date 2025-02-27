@@ -4,6 +4,7 @@
 
 TaskTracker is a responsive to-do app designed with Bootstrap, ensuring seamless functionality across devices. Users can easily add, manage, and remove tasks with an intuitive user interface tailored for both desktop and mobile use.
 
+
 ## Features
 
 - **Add Tasks:** Enter tasks into the input field and see them appear on the screen.
